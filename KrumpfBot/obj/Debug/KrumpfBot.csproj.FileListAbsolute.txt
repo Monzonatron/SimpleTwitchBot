@@ -1,0 +1,6 @@
+K:\Programming\KrumpfBot\KrumpfBot\bin\Debug\KrumpfBot.exe.config
+K:\Programming\KrumpfBot\KrumpfBot\obj\Debug\KrumpfBot.csprojResolveAssemblyReference.cache
+K:\Programming\KrumpfBot\KrumpfBot\bin\Debug\KrumpfBot.exe
+K:\Programming\KrumpfBot\KrumpfBot\bin\Debug\KrumpfBot.pdb
+K:\Programming\KrumpfBot\KrumpfBot\obj\Debug\KrumpfBot.exe
+K:\Programming\KrumpfBot\KrumpfBot\obj\Debug\KrumpfBot.pdb
